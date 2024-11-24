@@ -1,4 +1,5 @@
-run = "npm run dev"
+run = "node app.js"
+modules = ["nodejs-22"]
 
 [[ports]]
 localPort = 3000
