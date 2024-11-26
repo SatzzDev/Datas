@@ -1,15 +1,33 @@
 [
   {
-    "title": "Cry",
-    "channel": "Cigarettes After Sex",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Cry.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b0d93d82c831a2655e32762e"
+    "title": "Happiness",
+    "channel": "Rex Orange County",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Happiness.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731bd6d088d3d81972af4cb81d"
   },
   {
-    "title": "K.",
-    "channel": "Cigarettes After Sex",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/K..mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b27394d280f0006107be47bb4fe7"
+    "title": "THE SHADE",
+    "channel": "Rex Orange County",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/THE SHADE.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735b656d32ea6b0b9c54c2d2e0"
+  },
+  {
+    "title": "I Love You So",
+    "channel": "The Walters",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/I Love You So.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739214ff0109a0e062f8a6cf0f"
+  },
+  {
+    "title": "Here With Me",
+    "channel": "d4vd",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Here With Me.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27364fa1bda999f4fbd2b7c4bb7"
+  },
+  {
+    "title": "Come Inside Of My Heart",
+    "channel": "IV Of Spades",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Come Inside Of My Heart.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273144a03b07d6f561d4546a3f8"
   },
   {
     "title": "Sweet",
@@ -18,214 +36,16 @@
     "image": "https://i.scdn.co/image/ab67616d0000b27394d280f0006107be47bb4fe7"
   },
   {
-    "title": "Apocalypse",
-    "channel": "Cigarettes After Sex",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Apocalypse.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b27394d280f0006107be47bb4fe7"
+    "title": "seasons",
+    "channel": "wave to earth",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/seasons.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733f203b8d0d8e54fab416a825"
   },
   {
-    "title": "deja vu",
-    "channel": "Olivia Rodrigo",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/deja vu.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
-  },
-  {
-    "title": "Heather",
-    "channel": "Conan Gray",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Heather.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43"
-  },
-  {
-    "title": "Love In The Dark",
-    "channel": "Adele",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Love In The Dark.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b2737b9888dc365b8f957c63df14"
-  },
-  {
-    "title": "Photograph",
-    "channel": "Ed Sheeran",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Photograph.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd"
-  },
-  {
-    "title": "The Night We Met",
-    "channel": "Lord Huron",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Night We Met.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731fa318e90c9d4ddc6b480853"
-  },
-  {
-    "title": "Somebody's Pleasure",
-    "channel": "Aziz Hedra",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Somebody's Pleasure.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b2730104b1f71c7bd8e6e5ea1fd2"
-  },
-  {
-    "title": "505",
-    "channel": "Arctic Monkeys",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/505.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface"
-  },
-  {
-    "title": "Can I Be Him",
-    "channel": "James Arthur",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Can I Be Him.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab"
-  },
-  {
-    "title": "Train Wreck",
-    "channel": "James Arthur",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Train Wreck.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab"
-  },
-  {
-    "title": "A Thousand Years",
-    "channel": "James Arthur",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/A Thousand Years.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b27341b58c028c3ed6035074bdc1"
-  },
-  {
-    "title": "A Year Ago",
-    "channel": "James Arthur",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/A Year Ago.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b7bc00a22e8cf49d45a3b8b2"
-  },
-  {
-    "title": "Impossible",
-    "channel": "James Arthur",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Impossible.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273192221f838b7b6b9cb4629bf"
-  },
-  {
-    "title": "7 Years",
-    "channel": "Lukas Graham",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/7 Years.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732d94d0f04e9a58d1654b760b"
-  },
-  {
-    "title": "drunk text",
-    "channel": "Henry Moodie",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/drunk text.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b27338876c52ff708856ae680d7e"
-  },
-  {
-    "title": "Patience",
-    "channel": "Take That",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Patience.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b27306e7629fa095158d50b73d57"
-  },
-  {
-    "title": "Rewrite The Stars (with James Arthur & Anne-Marie)",
-    "channel": "James Arthur & Anne-Marie",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Rewrite The Stars (with James Arthur & Anne-Marie).mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273fdcd66dc526a25e1555ae81d"
-  },
-  {
-    "title": "Christmas Kids",
-    "channel": "Roar",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Christmas Kids.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d72f734a66c2b545facd7517"
-  },
-  {
-    "title": "Iris",
-    "channel": "The Goo Goo Dolls",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Iris.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca"
-  },
-  {
-    "title": "Car's Outside - Sped Up Version",
-    "channel": "James Arthur",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Car's Outside - Sped Up Version.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273bde319f49b9079c727c46410"
-  },
-  {
-    "title": "Mary On A Cross",
-    "channel": "Ghost",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Mary On A Cross.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273bef9b0a348ea8dd18a581025"
-  },
-  {
-    "title": "Unconditionally",
-    "channel": "Katy Perry",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Unconditionally.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731e9a057052d59004caf47e22"
-  },
-  {
-    "title": "Strong",
-    "channel": "One Direction",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Strong.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732f76b797c382bedcafdf45e1"
-  },
-  {
-    "title": "Reckless",
-    "channel": "Madison Beer",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Reckless.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273fe32f37b07c7894097aafd52"
-  },
-  {
-    "title": "Disenchanted",
-    "channel": "My Chemical Romance",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Disenchanted.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1"
-  },
-  {
-    "title": "Angels Like You",
-    "channel": "Miley Cyrus",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Angels Like You.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b2738cffb7c6c40759eaf8a5a142"
-  },
-  {
-    "title": "Mind Over Matter (Reprise)",
-    "channel": "Young the Giant",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Mind Over Matter (Reprise).mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b2731f66d9c6790a9a1a2418ec57"
-  },
-  {
-    "title": "Heart Attack",
-    "channel": "Demi Lovato",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Heart Attack.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b"
-  },
-  {
-    "title": "I Don't Love You",
-    "channel": "My Chemical Romance",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/I Don't Love You.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1"
-  },
-  {
-    "title": "End of Beginning",
-    "channel": "Djo",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/End of Beginning.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1"
-  },
-  {
-    "title": "I Know The End",
-    "channel": "Phoebe Bridgers",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/I Know The End.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600"
-  },
-  {
-    "title": "Cancer",
-    "channel": "My Chemical Romance",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Cancer.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1"
-  },
-  {
-    "title": "It Will Rain",
-    "channel": "Bruno Mars",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/It Will Rain.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273dec2e6bae5062b94fc4eeb84"
-  },
-  {
-    "title": "Prom Queen",
-    "channel": "Beach Bunny",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Prom Queen.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e6f804fb1092a0a052aec3a6"
-  },
-  {
-    "title": "Beauty And A Beat",
-    "channel": "Justin Bieber & Nicki Minaj",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Beauty And A Beat.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b2736c20c4638a558132ba95bc39"
+    "title": "Pluto Projector",
+    "channel": "Rex Orange County",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Pluto Projector.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273733e6d7818eef87d20df86b5"
   },
   {
     "title": "Mr. Loverman",
@@ -234,22 +54,112 @@
     "image": "https://i.scdn.co/image/ab67616d0000b27367ee332af483acd134fd6fd0"
   },
   {
-    "title": "Wide Awake",
-    "channel": "Katy Perry",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Wide Awake.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616"
+    "title": "UNDERSTAND",
+    "channel": "keshi",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/UNDERSTAND.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb"
   },
   {
-    "title": "Memories",
+    "title": "About You",
+    "channel": "The 1975",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/About You.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731f44db452a68e229650a302c"
+  },
+  {
+    "title": "P.S. I LOVE YOU",
+    "channel": "Paul Partohap",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/P.S. I LOVE YOU.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27303769726e96538c554af7c61"
+  },
+  {
+    "title": "Those Eyes",
+    "channel": "New West",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Those Eyes.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273aacd27a096e6e59ff555b46c"
+  },
+  {
+    "title": "Cry",
+    "channel": "Cigarettes After Sex",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Cry.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b0d93d82c831a2655e32762e"
+  },
+  {
+    "title": "Sunsetz",
+    "channel": "Cigarettes After Sex",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Sunsetz.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27394d280f0006107be47bb4fe7"
+  },
+  {
+    "title": "K.",
+    "channel": "Cigarettes After Sex",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/K..mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27394d280f0006107be47bb4fe7"
+  },
+  {
+    "title": "Line Without a Hook",
+    "channel": "Ricky Montgomery",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Line Without a Hook.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27367ee332af483acd134fd6fd0"
+  },
+  {
+    "title": "Scott Street",
+    "channel": "Phoebe Bridgers",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Scott Street.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27368b90c3b34c3ac22856ddab8"
+  },
+  {
+    "title": "we fell in love in october",
+    "channel": "girl in red",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/we fell in love in october.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d6839051c4760457e1a60b2a"
+  },
+  {
+    "title": "My Love Mine All Mine",
+    "channel": "Mitski",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/My Love Mine All Mine.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10"
+  },
+  {
+    "title": "love.",
+    "channel": "wave to earth",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/love..mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27324f8c3ad20b7c6cfecb5832e"
+  },
+  {
+    "title": "Apocalypse",
+    "channel": "Cigarettes After Sex",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Apocalypse.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27394d280f0006107be47bb4fe7"
+  },
+  {
+    "title": "double take",
+    "channel": "dhruv",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/double take.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736f04e53cb5309f8e88286842"
+  },
+  {
+    "title": "은방울 Lily of The Valley",
+    "channel": "DANIEL",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/은방울 Lily of The Valley.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273078afa8a2bc431a64d3d1147"
+  },
+  {
+    "title": "Promise",
+    "channel": "Laufey",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Promise.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27374c732f8aa0e0ccbb3d17d96"
+  },
+  {
+    "title": "The Cut That Always Bleeds",
     "channel": "Conan Gray",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Memories.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b27360a89b781c62ffe2136e4396"
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Cut That Always Bleeds.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43"
   },
   {
-    "title": "Yellow",
-    "channel": "Coldplay",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Yellow.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0"
+    "title": "Heather",
+    "channel": "Conan Gray",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Heather.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43"
   },
   {
     "title": "Sparks",
@@ -258,16 +168,130 @@
     "image": "https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0"
   },
   {
-    "title": "When I Was Your Man",
-    "channel": "Bruno Mars",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/When I Was Your Man.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46"
+    "title": "No. 1 Party Anthem",
+    "channel": "Arctic Monkeys",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/No. 1 Party Anthem.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163"
   },
   {
-    "title": "Night Changes",
-    "channel": "One Direction",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Night Changes.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4"
+    "title": "Memories",
+    "channel": "Conan Gray",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Memories.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27360a89b781c62ffe2136e4396"
+  },
+  {
+    "title": "Astronomy",
+    "channel": "Conan Gray",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Astronomy.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27360a89b781c62ffe2136e4396"
+  },
+  {
+    "title": "Romantic Homicide",
+    "channel": "d4vd",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Romantic Homicide.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273bd1a52b3d5903ee01c216da0"
+  },
+  {
+    "title": "Tek It",
+    "channel": "Cafuné",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tek It.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e1bcd643827606eae29cc9c4"
+  },
+  {
+    "title": "I Wanna Be Yours",
+    "channel": "Arctic Monkeys",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/I Wanna Be Yours.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163"
+  },
+  {
+    "title": "Nothing's New",
+    "channel": "Rio Romeo",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Nothing's New.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273502345ddf02b0fe85ad15830"
+  },
+  {
+    "title": "Mind Over Matter (Reprise)",
+    "channel": "Young the Giant",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Mind Over Matter (Reprise).mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731f66d9c6790a9a1a2418ec57"
+  },
+  {
+    "title": "Atlantis",
+    "channel": "Seafret",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Atlantis.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738c33272a7c77042f5eb39d75"
+  },
+  {
+    "title": "Where'd All the Time Go?",
+    "channel": "Dr. Dog",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Where'd All the Time Go?.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2730478062bc04df0947d232fcb"
+  },
+  {
+    "title": "Prom Queen",
+    "channel": "Beach Bunny",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Prom Queen.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e6f804fb1092a0a052aec3a6"
+  },
+  {
+    "title": "cardigan",
+    "channel": "Taylor Swift",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/cardigan.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc"
+  },
+  {
+    "title": "The Night We Met",
+    "channel": "Lord Huron",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Night We Met.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731fa318e90c9d4ddc6b480853"
+  },
+  {
+    "title": "august",
+    "channel": "Taylor Swift",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/august.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc"
+  },
+  {
+    "title": "Glimpse of Us",
+    "channel": "Joji",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Glimpse of Us.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb"
+  },
+  {
+    "title": "End of Beginning",
+    "channel": "Djo",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/End of Beginning.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1"
+  },
+  {
+    "title": "Car's Outside",
+    "channel": "James Arthur",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Car's Outside.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273dc16d839ab77c64bdbeb3660"
+  },
+  {
+    "title": "No Surprises",
+    "channel": "Radiohead",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/No Surprises.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856"
+  },
+  {
+    "title": "Until I Found You",
+    "channel": "Stephen Sanchez",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Until I Found You.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739522042f86d0bb0d4e9e3783"
+  },
+  {
+    "title": "Habits",
+    "channel": "Genevieve Stokes",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Habits.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2735b0abdb28f7253dd4d259499"
+  },
+  {
+    "title": "happier",
+    "channel": "Olivia Rodrigo",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/happier.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
   },
   {
     "title": "Someone To Stay",
@@ -276,16 +300,112 @@
     "image": "https://i.scdn.co/image/ab67616d0000b273dabc6fe9dd3454884cf65071"
   },
   {
-    "title": "UNDERSTAND",
-    "channel": "keshi",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/UNDERSTAND.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b27319aff2da63b211d75341e8eb"
+    "title": "deja vu",
+    "channel": "Olivia Rodrigo",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/deja vu.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
   },
   {
-    "title": "Stop Waiting",
-    "channel": "Cigarettes After Sex",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Stop Waiting.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ad609066ce38f817ec3ac441"
+    "title": "Bad Habit",
+    "channel": "Steve Lacy",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bad Habit.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27368968350c2550e36d96344ee"
+  },
+  {
+    "title": "Kill Bill",
+    "channel": "SZA",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Kill Bill.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5"
+  },
+  {
+    "title": "traitor",
+    "channel": "Olivia Rodrigo",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/traitor.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
+  },
+  {
+    "title": "Happier Than Ever",
+    "channel": "Billie Eilish",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Happier Than Ever.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e"
+  },
+  {
+    "title": "Love In The Dark",
+    "channel": "Adele",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Love In The Dark.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2737b9888dc365b8f957c63df14"
+  },
+  {
+    "title": "Dandelions",
+    "channel": "Ruth B.",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Dandelions.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27397e971f3e53475091dc8d707"
+  },
+  {
+    "title": "Enchanted",
+    "channel": "Taylor Swift",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Enchanted.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e1bc852a04501952c765d5cd"
+  },
+  {
+    "title": "I Know The End",
+    "channel": "Phoebe Bridgers",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/I Know The End.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a91b75c9ef65ed8d760ff600"
+  },
+  {
+    "title": "Freaks",
+    "channel": "Surf Curse",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Freaks.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739efda673310de265a2c1cf1f"
+  },
+  {
+    "title": "Yellow",
+    "channel": "Coldplay",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Yellow.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733d92b2ad5af9fbc8637425f0"
+  },
+  {
+    "title": "drunk text",
+    "channel": "Henry Moodie",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/drunk text.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273db94c82db2d786cd9e03a538"
+  },
+  {
+    "title": "Right Now",
+    "channel": "One Direction",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Right Now.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732f76b797c382bedcafdf45e1"
+  },
+  {
+    "title": "18",
+    "channel": "One Direction",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/18.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4"
+  },
+  {
+    "title": "Take A Chance With Me",
+    "channel": "NIKI",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Take A Chance With Me.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d3997a4c208ac08dafff374f"
+  },
+  {
+    "title": "Kiss Me",
+    "channel": "Sixpence None The Richer",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Kiss Me.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b182816802535e73e697a1a6"
+  },
+  {
+    "title": "You Are Enough",
+    "channel": "Sleeping At Last",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/You Are Enough.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e46541278af6c9ba6881cb7e"
+  },
+  {
+    "title": "Iris",
+    "channel": "The Goo Goo Dolls",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Iris.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca"
   },
   {
     "title": "Fix You",
@@ -294,27 +414,183 @@
     "image": "https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651"
   },
   {
-    "title": "If I Had A Gun…",
-    "channel": "Noel Gallagher's High Flying Birds",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/If I Had A Gun….mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732c59058c29e0f2eb289b120f"
+    "title": "Stop Waiting",
+    "channel": "Cigarettes After Sex",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Stop Waiting.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ad609066ce38f817ec3ac441"
   },
   {
-    "title": "Space Song",
-    "channel": "Beach House",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Space Song.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f307bc914c33632c7903a819"
+    "title": "All I Want",
+    "channel": "Olivia Rodrigo & Disney",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/All I Want.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273103b7e52b6a1b74035385876"
   },
   {
-    "title": "welcome and goodbye",
-    "channel": "Dream, Ivory",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/welcome and goodbye.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273ec5c5ec0da8942e4b03254f3"
+    "title": "Night Changes",
+    "channel": "One Direction",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Night Changes.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4"
   },
   {
-    "title": "happier",
-    "channel": "Olivia Rodrigo",
-    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/happier.mp3",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
+    "title": "Rahasia Hati",
+    "channel": "Nidji",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Rahasia Hati.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733d4e60ab546528ace91c22fb"
+  },
+  {
+    "title": "Nina",
+    "channel": ".Feast",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Nina.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27339695d4c16489cdf60bef536"
+  },
+  {
+    "title": "Serana",
+    "channel": "For Revenge",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Serana.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27366de8f7224e459d2cc0f9a1f"
+  },
+  {
+    "title": "Rumah Ke Rumah",
+    "channel": "Hindia",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Rumah Ke Rumah.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d623688488865906052ef96b"
+  },
+  {
+    "title": "Cincin",
+    "channel": "Hindia",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Cincin.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2730541ea1b6e34c6b75b054c33"
+  },
+  {
+    "title": "Evaluasi",
+    "channel": "Hindia",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Evaluasi.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d623688488865906052ef96b"
+  },
+  {
+    "title": "Sekuat Hatimu",
+    "channel": "Last Child",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Sekuat Hatimu.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273382b1b7f79e2e760b9ac188e"
+  },
+  {
+    "title": "Diary Depresiku",
+    "channel": "Last Child",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Diary Depresiku.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c6954b8d6cb1637075223bcc"
+  },
+  {
+    "title": "Secukupnya",
+    "channel": "Hindia",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Secukupnya.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d623688488865906052ef96b"
+  },
+  {
+    "title": "Duka",
+    "channel": "Last Child",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Duka.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2733e19058e3db31816a65baf39"
+  },
+  {
+    "title": "Masing Masing",
+    "channel": "Ernie Zakri & Ade Govinda",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Masing Masing.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b2854c3503911cc7625992e2"
+  },
+  {
+    "title": "Keras Kepala",
+    "channel": "Meiska",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Keras Kepala.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273781bc09c9a335b823a8cf707"
+  },
+  {
+    "title": "Mati-Matian",
+    "channel": "Mahalini",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Mati-Matian.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273a053b3768be58a7117cc322b"
+  },
+  {
+    "title": "Aku Yang Jatuh Cinta",
+    "channel": "Dudy Oris",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Aku Yang Jatuh Cinta.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736dabfe1ad020adcd7b6c2108"
+  },
+  {
+    "title": "Bawa Dia Kembali",
+    "channel": "Mahalini",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bawa Dia Kembali.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736f713eb92ebf7ca05a562542"
+  },
+  {
+    "title": "Kisah Tanpa Dirimu",
+    "channel": "Anggis Devaki",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Kisah Tanpa Dirimu.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273876476b0244c1943097100ff"
+  },
+  {
+    "title": "Dia Masa Lalumu, Aku Masa Depanmu",
+    "channel": "Vionita",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Dia Masa Lalumu, Aku Masa Depanmu.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b27374384f1bbafdb90349d13f76"
+  },
+  {
+    "title": "Bertaut",
+    "channel": "Nadin Amizah",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bertaut.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732af8d850fa9388950b9320e7"
+  },
+  {
+    "title": "Janji Setia",
+    "channel": "Tiara Andini",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Janji Setia.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273937d621f0025409ee44285d1"
+  },
+  {
+    "title": "Tanpa Pesan Terakhir",
+    "channel": "Seventeen",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tanpa Pesan Terakhir.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273687ee7cccc410bb76f8bad42"
+  },
+  {
+    "title": "Tanpa Cinta",
+    "channel": "Yovie & Nuno",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tanpa Cinta.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2730b43cd27d3f8ab7e3b9069a8"
+  },
+  {
+    "title": "Bohongi Hati",
+    "channel": "Mahalini",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bohongi Hati.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736f713eb92ebf7ca05a562542"
+  },
+  {
+    "title": "Pesan Terakhir",
+    "channel": "Lyodra",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Pesan Terakhir.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d00e5994b61f1d93dafe9221"
+  },
+  {
+    "title": "Tak Segampang Itu",
+    "channel": "Anggi Marito",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tak Segampang Itu.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2732844c4e4e984ea408ab7fd6f"
+  },
+  {
+    "title": "Ku Ingin Pisah",
+    "channel": "Nabila Taqiyyah",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Ku Ingin Pisah.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b7044a4b1d903117ab7594b1"
+  },
+  {
+    "title": "Sisa Rasa",
+    "channel": "Mahalini",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Sisa Rasa.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736f713eb92ebf7ca05a562542"
+  },
+  {
+    "title": "Sial",
+    "channel": "Mahalini",
+    "audio_url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Sial.mp3",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736f713eb92ebf7ca05a562542"
   }
 ]
