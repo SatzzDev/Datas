@@ -14,13 +14,6 @@
     "favorite": true
   },
   {
-    "title": "happier",
-    "artist": "Olivia Rodrigo",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/happier.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
-    "favorite": true
-  },
-  {
     "title": "Memories",
     "artist": "Conan Gray",
     "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Memories.mp3",
@@ -28,10 +21,17 @@
     "favorite": true
   },
   {
-    "title": "The Cut That Always Bleeds",
-    "artist": "Conan Gray",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Cut That Always Bleeds.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43",
+    "title": "happier",
+    "artist": "Olivia Rodrigo",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/happier.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+    "favorite": true
+  },
+  {
+    "title": "I Don't Love You",
+    "artist": "My Chemical Romance",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/I Don't Love You.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1",
     "favorite": true
   },
   {
@@ -56,17 +56,17 @@
     "favorite": true
   },
   {
-    "title": "Iris",
-    "artist": "The Goo Goo Dolls",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Iris.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca",
-    "favorite": true
-  },
-  {
     "title": "Die With A Smile",
     "artist": "Lady Gaga & Bruno Mars",
     "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Die With A Smile.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2735c7afa72c84ca04fdb7a5a4c",
+    "favorite": true
+  },
+  {
+    "title": "Iris",
+    "artist": "The Goo Goo Dolls",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Iris.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca",
     "favorite": true
   },
   {
@@ -84,17 +84,17 @@
     "favorite": true
   },
   {
+    "title": "The Cut That Always Bleeds",
+    "artist": "Conan Gray",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Cut That Always Bleeds.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43",
+    "favorite": true
+  },
+  {
     "title": "A Thousand Years",
     "artist": "James Arthur",
     "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/A Thousand Years.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27341b58c028c3ed6035074bdc1",
-    "favorite": true
-  },
-  {
-    "title": "I Don't Love You",
-    "artist": "My Chemical Romance",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/I Don't Love You.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1",
     "favorite": true
   },
   {
@@ -308,13 +308,6 @@
     "favorite": true
   },
   {
-    "title": "Hurts So Good",
-    "artist": "Astrid S",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Hurts So Good.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27331e760ae51990e7d9a32593a",
-    "favorite": true
-  },
-  {
     "title": "Locked out of Heaven",
     "artist": "Bruno Mars",
     "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Locked out of Heaven.mp3",
@@ -322,17 +315,24 @@
     "favorite": true
   },
   {
+    "title": "Hurts So Good",
+    "artist": "Astrid S",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Hurts So Good.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27331e760ae51990e7d9a32593a",
+    "favorite": true
+  },
+  {
+    "title": "Happiness",
+    "artist": "Rex Orange County",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Happiness.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731bd6d088d3d81972af4cb81d",
+    "favorite": true
+  },
+  {
     "title": "Christmas Kids",
     "artist": "Roar",
     "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Christmas Kids.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273d72f734a66c2b545facd7517",
-    "favorite": true
-  },
-  {
-    "title": "Closed Doors",
-    "artist": "Ismail",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Closed Doors.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f8e06dc960c431820aa894b8",
     "favorite": true
   },
   {
@@ -357,10 +357,10 @@
     "favorite": true
   },
   {
-    "title": "Happiness",
-    "artist": "Rex Orange County",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Happiness.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731bd6d088d3d81972af4cb81d",
+    "title": "Closed Doors",
+    "artist": "Ismail",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Closed Doors.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f8e06dc960c431820aa894b8",
     "favorite": true
   }
 ]
