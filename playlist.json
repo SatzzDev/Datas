@@ -2,7 +2,7 @@
   {
     "title": "Somebody's Pleasure",
     "artist": "Aziz Hedra",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Somebody's Pleasure.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Somebody's Pleasure.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273dfa72d72dd91d9b28dedf9e9",
     "lyrics": [
       {
@@ -142,7 +142,7 @@
   {
     "title": "Line Without a Hook",
     "artist": "Ricky Montgomery",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Line Without a Hook.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Line Without a Hook.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27367ee332af483acd134fd6fd0",
     "lyrics": [
       {
@@ -314,7 +314,7 @@
   {
     "title": "Scott Street",
     "artist": "Phoebe Bridgers",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Scott Street.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Scott Street.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27368b90c3b34c3ac22856ddab8",
     "lyrics": [
       {
@@ -386,7 +386,7 @@
   {
     "title": "I Love You So",
     "artist": "The Walters",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/I Love You So.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/I Love You So.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2739214ff0109a0e062f8a6cf0f",
     "lyrics": [
       {
@@ -446,7 +446,7 @@
   {
     "title": "Mr. Loverman",
     "artist": "Ricky Montgomery",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Mr. Loverman.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Mr. Loverman.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27367ee332af483acd134fd6fd0",
     "lyrics": [
       {
@@ -582,7 +582,7 @@
   {
     "title": "Memories",
     "artist": "Conan Gray",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Memories.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Memories.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27360a89b781c62ffe2136e4396",
     "lyrics": [
       {
@@ -762,7 +762,7 @@
   {
     "title": "The Cut That Always Bleeds",
     "artist": "Conan Gray",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Cut That Always Bleeds.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Cut That Always Bleeds.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43",
     "lyrics": [
       {
@@ -898,7 +898,7 @@
   {
     "title": "About You",
     "artist": "The 1975",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/About You.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/About You.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2731f44db452a68e229650a302c",
     "lyrics": [
       {
@@ -998,7 +998,7 @@
   {
     "title": "Reckless",
     "artist": "Madison Beer",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Reckless.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Reckless.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2732529ab6fa7f2c93a1931c0e3",
     "lyrics": [
       {
@@ -1126,7 +1126,7 @@
   {
     "title": "No. 1 Party Anthem",
     "artist": "Arctic Monkeys",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/No. 1 Party Anthem.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/No. 1 Party Anthem.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
     "lyrics": [
       {
@@ -1274,7 +1274,7 @@
   {
     "title": "Prom Queen",
     "artist": "Beach Bunny",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Prom Queen.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Prom Queen.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273e6f804fb1092a0a052aec3a6",
     "lyrics": [
       {
@@ -1370,7 +1370,7 @@
   {
     "title": "Pluto Projector",
     "artist": "Rex Orange County",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Pluto Projector.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Pluto Projector.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273733e6d7818eef87d20df86b5",
     "lyrics": [
       {
@@ -1522,7 +1522,7 @@
   {
     "title": "Promise",
     "artist": "Laufey",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Promise.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Promise.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27374c732f8aa0e0ccbb3d17d96",
     "lyrics": [
       {
@@ -1638,7 +1638,7 @@
   {
     "title": "happier",
     "artist": "Olivia Rodrigo",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/happier.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/happier.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
     "lyrics": [
       {
@@ -1754,7 +1754,7 @@
   {
     "title": "Romantic Homicide",
     "artist": "d4vd",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Romantic Homicide.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Romantic Homicide.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273bd1a52b3d5903ee01c216da0",
     "lyrics": [
       {
@@ -1842,7 +1842,7 @@
   {
     "title": "traitor",
     "artist": "Olivia Rodrigo",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/traitor.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/traitor.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
     "lyrics": [
       {
@@ -1978,7 +1978,7 @@
   {
     "title": "Car's Outside",
     "artist": "James Arthur",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Car's Outside.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Car's Outside.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273dc16d839ab77c64bdbeb3660",
     "lyrics": [
       {
@@ -2158,7 +2158,7 @@
   {
     "title": "Enchanted",
     "artist": "Taylor Swift",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Enchanted.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Enchanted.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273e1bc852a04501952c765d5cd",
     "lyrics": [
       {
@@ -2366,7 +2366,7 @@
   {
     "title": "The Night We Met",
     "artist": "Lord Huron",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Night We Met.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Night We Met.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2731fa318e90c9d4ddc6b480853",
     "lyrics": [
       {
@@ -2454,7 +2454,7 @@
   {
     "title": "Dandelions",
     "artist": "Ruth B.",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Dandelions.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Dandelions.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27397e971f3e53475091dc8d707",
     "lyrics": [
       {
@@ -2582,7 +2582,7 @@
   {
     "title": "Someone To Stay",
     "artist": "Vancouver Sleep Clinic",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Someone To Stay.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Someone To Stay.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273dabc6fe9dd3454884cf65071",
     "lyrics": [
       {
@@ -2726,7 +2726,7 @@
   {
     "title": "Glimpse of Us",
     "artist": "Joji",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Glimpse of Us.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Glimpse of Us.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb",
     "lyrics": [
       {
@@ -2810,7 +2810,7 @@
   {
     "title": "End of Beginning",
     "artist": "Djo",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/End of Beginning.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/End of Beginning.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1",
     "lyrics": [
       {
@@ -2902,7 +2902,7 @@
   {
     "title": "Love In The Dark",
     "artist": "Adele",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Love In The Dark.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Love In The Dark.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2737b9888dc365b8f957c63df14",
     "lyrics": [
       {
@@ -3030,7 +3030,7 @@
   {
     "title": "Disenchanted",
     "artist": "My Chemical Romance",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Disenchanted.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Disenchanted.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1",
     "lyrics": [
       {
@@ -3190,7 +3190,7 @@
   {
     "title": "I Don't Love You",
     "artist": "My Chemical Romance",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/I Don't Love You.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/I Don't Love You.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1",
     "lyrics": [
       {
@@ -3314,7 +3314,7 @@
   {
     "title": "Cancer",
     "artist": "My Chemical Romance",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Cancer.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Cancer.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1",
     "lyrics": [
       {
@@ -3406,7 +3406,7 @@
   {
     "title": "Iris",
     "artist": "The Goo Goo Dolls",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Iris.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Iris.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca",
     "lyrics": [
       {
@@ -3518,7 +3518,7 @@
   {
     "title": "505",
     "artist": "Arctic Monkeys",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/505.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/505.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface",
     "lyrics": [
       {
@@ -3610,7 +3610,7 @@
   {
     "title": "Wish You Were Here",
     "artist": "Neck Deep",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Wish You Were Here.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Wish You Were Here.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273012600ed0113720188be4dd5",
     "lyrics": [
       {
@@ -3798,7 +3798,7 @@
   {
     "title": "About You",
     "artist": "The 1975",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/About You.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/About You.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2731f44db452a68e229650a302c",
     "lyrics": [
       {
@@ -3898,7 +3898,7 @@
   {
     "title": "The Night We Met",
     "artist": "Lord Huron",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Night We Met.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Night We Met.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2731fa318e90c9d4ddc6b480853",
     "lyrics": [
       {
@@ -3986,7 +3986,7 @@
   {
     "title": "Line Without a Hook",
     "artist": "Ricky Montgomery",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Line Without a Hook.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Line Without a Hook.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27367ee332af483acd134fd6fd0",
     "lyrics": [
       {
@@ -4158,7 +4158,7 @@
   {
     "title": "The Cut That Always Bleeds",
     "artist": "Conan Gray",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Cut That Always Bleeds.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Cut That Always Bleeds.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43",
     "lyrics": [
       {
@@ -4294,7 +4294,7 @@
   {
     "title": "Car's Outside",
     "artist": "James Arthur",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Car's Outside.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Car's Outside.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273dc16d839ab77c64bdbeb3660",
     "lyrics": [
       {
@@ -4474,7 +4474,7 @@
   {
     "title": "Romantic Homicide",
     "artist": "d4vd",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Romantic Homicide.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Romantic Homicide.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273bd1a52b3d5903ee01c216da0",
     "lyrics": [
       {
@@ -4562,7 +4562,7 @@
   {
     "title": "No Surprises",
     "artist": "Radiohead",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/No Surprises.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/No Surprises.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
     "lyrics": [
       {
@@ -4650,7 +4650,7 @@
   {
     "title": "happier",
     "artist": "Olivia Rodrigo",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/happier.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/happier.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
     "lyrics": [
       {
@@ -4766,7 +4766,7 @@
   {
     "title": "Memories",
     "artist": "Conan Gray",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Memories.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Memories.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27360a89b781c62ffe2136e4396",
     "lyrics": [
       {
@@ -4946,7 +4946,7 @@
   {
     "title": "deja vu",
     "artist": "Olivia Rodrigo",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/deja vu.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/deja vu.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
     "lyrics": [
       {
@@ -5086,7 +5086,7 @@
   {
     "title": "Until I Found You",
     "artist": "Stephen Sanchez",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Until I Found You.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Until I Found You.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2739522042f86d0bb0d4e9e3783",
     "lyrics": [
       {
@@ -5166,7 +5166,7 @@
   {
     "title": "End of Beginning",
     "artist": "Djo",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/End of Beginning.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/End of Beginning.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1",
     "lyrics": [
       {
@@ -5258,7 +5258,7 @@
   {
     "title": "Someone To Stay",
     "artist": "Vancouver Sleep Clinic",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Someone To Stay.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Someone To Stay.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273dabc6fe9dd3454884cf65071",
     "lyrics": [
       {
@@ -5402,7 +5402,7 @@
   {
     "title": "traitor",
     "artist": "Olivia Rodrigo",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/traitor.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/traitor.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
     "lyrics": [
       {
@@ -5538,7 +5538,7 @@
   {
     "title": "Dandelions",
     "artist": "Ruth B.",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Dandelions.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Dandelions.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27397e971f3e53475091dc8d707",
     "lyrics": [
       {
@@ -5666,7 +5666,7 @@
   {
     "title": "drunk text",
     "artist": "Henry Moodie",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/drunk text.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/drunk text.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273db94c82db2d786cd9e03a538",
     "lyrics": [
       {
@@ -5818,7 +5818,7 @@
   {
     "title": "Love In The Dark",
     "artist": "Adele",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Love In The Dark.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Love In The Dark.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2737b9888dc365b8f957c63df14",
     "lyrics": [
       {
@@ -5946,7 +5946,7 @@
   {
     "title": "Enchanted",
     "artist": "Taylor Swift",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Enchanted.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Enchanted.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273e1bc852a04501952c765d5cd",
     "lyrics": [
       {
@@ -6154,7 +6154,7 @@
   {
     "title": "18",
     "artist": "One Direction",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/18.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/18.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4",
     "lyrics": [
       {
@@ -6318,7 +6318,7 @@
   {
     "title": "You Are Enough",
     "artist": "Sleeping At Last",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/You Are Enough.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/You Are Enough.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273e46541278af6c9ba6881cb7e",
     "lyrics": [
       {
@@ -6406,7 +6406,7 @@
   {
     "title": "Iris",
     "artist": "The Goo Goo Dolls",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Iris.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Iris.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca",
     "lyrics": [
       {
@@ -6518,7 +6518,7 @@
   {
     "title": "Sekuat Hatimu",
     "artist": "Last Child",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Sekuat Hatimu.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Sekuat Hatimu.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273382b1b7f79e2e760b9ac188e",
     "lyrics": [
       {
@@ -6634,7 +6634,7 @@
   {
     "title": "Rahasia Hati",
     "artist": "Nidji",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Rahasia Hati.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Rahasia Hati.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2733d4e60ab546528ace91c22fb",
     "lyrics": [
       {
@@ -6746,7 +6746,7 @@
   {
     "title": "Right Now",
     "artist": "One Direction",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Right Now.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Right Now.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2732f76b797c382bedcafdf45e1",
     "lyrics": [
       {
@@ -6874,7 +6874,7 @@
   {
     "title": "Diary Depresiku",
     "artist": "Last Child",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Diary Depresiku.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Diary Depresiku.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273c6954b8d6cb1637075223bcc",
     "lyrics": [
       {
@@ -6978,7 +6978,7 @@
   {
     "title": "Duka",
     "artist": "Last Child",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Duka.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Duka.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2733e19058e3db31816a65baf39",
     "lyrics": [
       {
@@ -7102,7 +7102,7 @@
   {
     "title": "Keras Kepala",
     "artist": "Meiska",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Keras Kepala.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Keras Kepala.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273781bc09c9a335b823a8cf707",
     "lyrics": [
       {
@@ -7202,7 +7202,7 @@
   {
     "title": "Bertaut",
     "artist": "Nadin Amizah",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bertaut.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bertaut.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2732af8d850fa9388950b9320e7",
     "lyrics": [
       {
@@ -7342,7 +7342,7 @@
   {
     "title": "Mati-Matian",
     "artist": "Mahalini",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Mati-Matian.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Mati-Matian.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a053b3768be58a7117cc322b",
     "lyrics": [
       {
@@ -7438,7 +7438,7 @@
   {
     "title": "Masing Masing",
     "artist": "Ernie Zakri & Ade Govinda",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Masing Masing.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Masing Masing.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273b2854c3503911cc7625992e2",
     "lyrics": [
       {
@@ -7534,7 +7534,7 @@
   {
     "title": "Bawa Dia Kembali",
     "artist": "Mahalini",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bawa Dia Kembali.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bawa Dia Kembali.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2736f713eb92ebf7ca05a562542",
     "lyrics": [
       {
@@ -7634,7 +7634,7 @@
   {
     "title": "Aku Yang Jatuh Cinta",
     "artist": "Dudy Oris",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Aku Yang Jatuh Cinta.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Aku Yang Jatuh Cinta.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2736dabfe1ad020adcd7b6c2108",
     "lyrics": [
       {
@@ -7750,7 +7750,7 @@
   {
     "title": "Kisah Tanpa Dirimu",
     "artist": "Anggis Devaki",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Kisah Tanpa Dirimu.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Kisah Tanpa Dirimu.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273876476b0244c1943097100ff",
     "lyrics": [
       {
@@ -7874,7 +7874,7 @@
   {
     "title": "Dia Masa Lalumu, Aku Masa Depanmu",
     "artist": "Vionita",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Dia Masa Lalumu, Aku Masa Depanmu.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Dia Masa Lalumu, Aku Masa Depanmu.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27374384f1bbafdb90349d13f76",
     "lyrics": [
       {
@@ -8010,7 +8010,7 @@
   {
     "title": "Janji Setia",
     "artist": "Tiara Andini",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Janji Setia.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Janji Setia.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273937d621f0025409ee44285d1",
     "lyrics": [
       {
@@ -8130,7 +8130,7 @@
   {
     "title": "Tanpa Cinta",
     "artist": "Yovie & Nuno",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tanpa Cinta.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tanpa Cinta.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2730b43cd27d3f8ab7e3b9069a8",
     "lyrics": [
       {
@@ -8242,7 +8242,7 @@
   {
     "title": "Tanpa Pesan Terakhir",
     "artist": "Seventeen",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tanpa Pesan Terakhir.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tanpa Pesan Terakhir.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273687ee7cccc410bb76f8bad42",
     "lyrics": [
       {
@@ -8362,7 +8362,7 @@
   {
     "title": "Pesan Terakhir",
     "artist": "Lyodra",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Pesan Terakhir.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Pesan Terakhir.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273d00e5994b61f1d93dafe9221",
     "lyrics": [
       {
@@ -8494,7 +8494,7 @@
   {
     "title": "Ku Ingin Pisah",
     "artist": "Nabila Taqiyyah",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Ku Ingin Pisah.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Ku Ingin Pisah.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273b7044a4b1d903117ab7594b1",
     "lyrics": [
       {
@@ -8622,7 +8622,7 @@
   {
     "title": "Bohongi Hati",
     "artist": "Mahalini",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bohongi Hati.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bohongi Hati.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2736f713eb92ebf7ca05a562542",
     "lyrics": [
       {
@@ -8742,7 +8742,7 @@
   {
     "title": "Sisa Rasa",
     "artist": "Mahalini",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Sisa Rasa.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Sisa Rasa.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2736f713eb92ebf7ca05a562542",
     "lyrics": [
       {
@@ -8854,7 +8854,7 @@
   {
     "title": "Tak Segampang Itu",
     "artist": "Anggi Marito",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tak Segampang Itu.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tak Segampang Itu.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2732844c4e4e984ea408ab7fd6f",
     "lyrics": [
       {
@@ -8938,7 +8938,7 @@
   {
     "title": "Tak Dianggap",
     "artist": "Lyodra",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tak Dianggap.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tak Dianggap.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273ca3cda6e80ce9df0f98de7cb",
     "lyrics": [
       {
@@ -9046,7 +9046,7 @@
   {
     "title": "Sial",
     "artist": "Mahalini",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Sial.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Sial.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2736f713eb92ebf7ca05a562542",
     "lyrics": [
       {
@@ -9138,7 +9138,7 @@
   {
     "title": "Bukan Cinta Biasa",
     "artist": "Afgan",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bukan Cinta Biasa.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bukan Cinta Biasa.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273daa3a5d2478cc796925f7c90",
     "lyrics": [
       {
@@ -9222,7 +9222,7 @@
   {
     "title": "Somebody's Pleasure",
     "artist": "Aziz Hedra",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Somebody's Pleasure.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Somebody's Pleasure.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273dfa72d72dd91d9b28dedf9e9",
     "lyrics": [
       {
@@ -9362,7 +9362,7 @@
   {
     "title": "About You",
     "artist": "The 1975",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/About You.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/About You.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2731f44db452a68e229650a302c",
     "lyrics": [
       {
@@ -9462,7 +9462,7 @@
   {
     "title": "Line Without a Hook",
     "artist": "Ricky Montgomery",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Line Without a Hook.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Line Without a Hook.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27367ee332af483acd134fd6fd0",
     "lyrics": [
       {
@@ -9634,7 +9634,7 @@
   {
     "title": "The Night We Met",
     "artist": "Lord Huron",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Night We Met.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Night We Met.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2731fa318e90c9d4ddc6b480853",
     "lyrics": [
       {
@@ -9722,7 +9722,7 @@
   {
     "title": "The Cut That Always Bleeds",
     "artist": "Conan Gray",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Cut That Always Bleeds.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Cut That Always Bleeds.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43",
     "lyrics": [
       {
@@ -9858,7 +9858,7 @@
   {
     "title": "Car's Outside",
     "artist": "James Arthur",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Car's Outside.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Car's Outside.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273dc16d839ab77c64bdbeb3660",
     "lyrics": [
       {
@@ -10038,7 +10038,7 @@
   {
     "title": "Memories",
     "artist": "Conan Gray",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Memories.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Memories.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27360a89b781c62ffe2136e4396",
     "lyrics": [
       {
@@ -10218,7 +10218,7 @@
   {
     "title": "No Surprises",
     "artist": "Radiohead",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/No Surprises.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/No Surprises.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
     "lyrics": [
       {
@@ -10306,7 +10306,7 @@
   {
     "title": "Until I Found You",
     "artist": "Stephen Sanchez",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Until I Found You.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Until I Found You.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2739522042f86d0bb0d4e9e3783",
     "lyrics": [
       {
@@ -10386,7 +10386,7 @@
   {
     "title": "happier",
     "artist": "Olivia Rodrigo",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/happier.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/happier.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
     "lyrics": [
       {
@@ -10502,7 +10502,7 @@
   {
     "title": "Romantic Homicide",
     "artist": "d4vd",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Romantic Homicide.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Romantic Homicide.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273bd1a52b3d5903ee01c216da0",
     "lyrics": [
       {
@@ -10590,7 +10590,7 @@
   {
     "title": "traitor",
     "artist": "Olivia Rodrigo",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/traitor.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/traitor.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
     "lyrics": [
       {
@@ -10726,7 +10726,7 @@
   {
     "title": "deja vu",
     "artist": "Olivia Rodrigo",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/deja vu.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/deja vu.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
     "lyrics": [
       {
@@ -10866,7 +10866,7 @@
   {
     "title": "Someone To Stay",
     "artist": "Vancouver Sleep Clinic",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Someone To Stay.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Someone To Stay.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273dabc6fe9dd3454884cf65071",
     "lyrics": [
       {
@@ -11010,7 +11010,7 @@
   {
     "title": "End of Beginning",
     "artist": "Djo",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/End of Beginning.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/End of Beginning.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1",
     "lyrics": [
       {
@@ -11102,7 +11102,7 @@
   {
     "title": "Dandelions",
     "artist": "Ruth B.",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Dandelions.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Dandelions.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27397e971f3e53475091dc8d707",
     "lyrics": [
       {
@@ -11230,7 +11230,7 @@
   {
     "title": "drunk text",
     "artist": "Henry Moodie",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/drunk text.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/drunk text.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273db94c82db2d786cd9e03a538",
     "lyrics": [
       {
@@ -11382,7 +11382,7 @@
   {
     "title": "Enchanted",
     "artist": "Taylor Swift",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Enchanted.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Enchanted.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273e1bc852a04501952c765d5cd",
     "lyrics": [
       {
@@ -11590,7 +11590,7 @@
   {
     "title": "Love In The Dark",
     "artist": "Adele",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Love In The Dark.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Love In The Dark.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2737b9888dc365b8f957c63df14",
     "lyrics": [
       {
@@ -11718,7 +11718,7 @@
   {
     "title": "Right Now",
     "artist": "One Direction",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Right Now.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Right Now.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2732f76b797c382bedcafdf45e1",
     "lyrics": [
       {
@@ -11846,7 +11846,7 @@
   {
     "title": "Iris",
     "artist": "The Goo Goo Dolls",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Iris.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Iris.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca",
     "lyrics": [
       {
@@ -11958,7 +11958,7 @@
   {
     "title": "18",
     "artist": "One Direction",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/18.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/18.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4",
     "lyrics": [
       {
@@ -12122,7 +12122,7 @@
   {
     "title": "You Are Enough",
     "artist": "Sleeping At Last",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/You Are Enough.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/You Are Enough.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273e46541278af6c9ba6881cb7e",
     "lyrics": [
       {
@@ -12210,7 +12210,7 @@
   {
     "title": "Diary Depresiku",
     "artist": "Last Child",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Diary Depresiku.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Diary Depresiku.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273c6954b8d6cb1637075223bcc",
     "lyrics": [
       {
@@ -12314,7 +12314,7 @@
   {
     "title": "Sekuat Hatimu",
     "artist": "Last Child",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Sekuat Hatimu.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Sekuat Hatimu.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273382b1b7f79e2e760b9ac188e",
     "lyrics": [
       {
@@ -12430,7 +12430,7 @@
   {
     "title": "Rahasia Hati",
     "artist": "Nidji",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Rahasia Hati.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Rahasia Hati.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2733d4e60ab546528ace91c22fb",
     "lyrics": [
       {
@@ -12542,7 +12542,7 @@
   {
     "title": "Keras Kepala",
     "artist": "Meiska",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Keras Kepala.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Keras Kepala.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273781bc09c9a335b823a8cf707",
     "lyrics": [
       {
@@ -12642,7 +12642,7 @@
   {
     "title": "Duka",
     "artist": "Last Child",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Duka.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Duka.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2733e19058e3db31816a65baf39",
     "lyrics": [
       {
@@ -12766,7 +12766,7 @@
   {
     "title": "Mati-Matian",
     "artist": "Mahalini",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Mati-Matian.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Mati-Matian.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273a053b3768be58a7117cc322b",
     "lyrics": [
       {
@@ -12862,7 +12862,7 @@
   {
     "title": "Masing Masing",
     "artist": "Ernie Zakri & Ade Govinda",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Masing Masing.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Masing Masing.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273b2854c3503911cc7625992e2",
     "lyrics": [
       {
@@ -12958,7 +12958,7 @@
   {
     "title": "Bertaut",
     "artist": "Nadin Amizah",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bertaut.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bertaut.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2732af8d850fa9388950b9320e7",
     "lyrics": [
       {
@@ -13098,7 +13098,7 @@
   {
     "title": "Bawa Dia Kembali",
     "artist": "Mahalini",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bawa Dia Kembali.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bawa Dia Kembali.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2736f713eb92ebf7ca05a562542",
     "lyrics": [
       {
@@ -13198,7 +13198,7 @@
   {
     "title": "Kisah Tanpa Dirimu",
     "artist": "Anggis Devaki",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Kisah Tanpa Dirimu.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Kisah Tanpa Dirimu.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273876476b0244c1943097100ff",
     "lyrics": [
       {
@@ -13322,7 +13322,7 @@
   {
     "title": "Aku Yang Jatuh Cinta",
     "artist": "Dudy Oris",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Aku Yang Jatuh Cinta.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Aku Yang Jatuh Cinta.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2736dabfe1ad020adcd7b6c2108",
     "lyrics": [
       {
@@ -13438,7 +13438,7 @@
   {
     "title": "Dia Masa Lalumu, Aku Masa Depanmu",
     "artist": "Vionita",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Dia Masa Lalumu, Aku Masa Depanmu.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Dia Masa Lalumu, Aku Masa Depanmu.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b27374384f1bbafdb90349d13f76",
     "lyrics": [
       {
@@ -13574,7 +13574,7 @@
   {
     "title": "Tanpa Pesan Terakhir",
     "artist": "Seventeen",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tanpa Pesan Terakhir.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tanpa Pesan Terakhir.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273687ee7cccc410bb76f8bad42",
     "lyrics": [
       {
@@ -13694,7 +13694,7 @@
   {
     "title": "Janji Setia",
     "artist": "Tiara Andini",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Janji Setia.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Janji Setia.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273937d621f0025409ee44285d1",
     "lyrics": [
       {
@@ -13814,7 +13814,7 @@
   {
     "title": "Tanpa Cinta",
     "artist": "Yovie & Nuno",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tanpa Cinta.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tanpa Cinta.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2730b43cd27d3f8ab7e3b9069a8",
     "lyrics": [
       {
@@ -13926,7 +13926,7 @@
   {
     "title": "Ku Ingin Pisah",
     "artist": "Nabila Taqiyyah",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Ku Ingin Pisah.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Ku Ingin Pisah.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273b7044a4b1d903117ab7594b1",
     "lyrics": [
       {
@@ -14054,7 +14054,7 @@
   {
     "title": "Bohongi Hati",
     "artist": "Mahalini",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bohongi Hati.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bohongi Hati.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2736f713eb92ebf7ca05a562542",
     "lyrics": [
       {
@@ -14174,7 +14174,7 @@
   {
     "title": "Tak Segampang Itu",
     "artist": "Anggi Marito",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tak Segampang Itu.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tak Segampang Itu.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2732844c4e4e984ea408ab7fd6f",
     "lyrics": [
       {
@@ -14258,7 +14258,7 @@
   {
     "title": "Pesan Terakhir",
     "artist": "Lyodra",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Pesan Terakhir.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Pesan Terakhir.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273d00e5994b61f1d93dafe9221",
     "lyrics": [
       {
@@ -14390,7 +14390,7 @@
   {
     "title": "Sial",
     "artist": "Mahalini",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Sial.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Sial.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2736f713eb92ebf7ca05a562542",
     "lyrics": [
       {
@@ -14482,7 +14482,7 @@
   {
     "title": "Bukan Cinta Biasa",
     "artist": "Afgan",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bukan Cinta Biasa.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Bukan Cinta Biasa.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273daa3a5d2478cc796925f7c90",
     "lyrics": [
       {
@@ -14566,7 +14566,7 @@
   {
     "title": "Somebody's Pleasure",
     "artist": "Aziz Hedra",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Somebody's Pleasure.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Somebody's Pleasure.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273dfa72d72dd91d9b28dedf9e9",
     "lyrics": [
       {
@@ -14706,7 +14706,7 @@
   {
     "title": "Sisa Rasa",
     "artist": "Mahalini",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Sisa Rasa.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Sisa Rasa.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b2736f713eb92ebf7ca05a562542",
     "lyrics": [
       {
@@ -14818,7 +14818,7 @@
   {
     "title": "Tak Dianggap",
     "artist": "Lyodra",
-    "url": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tak Dianggap.mp3",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tak Dianggap.mp3",
     "cover": "https://i.scdn.co/image/ab67616d0000b273ca3cda6e80ce9df0f98de7cb",
     "lyrics": [
       {
