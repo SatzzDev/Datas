@@ -23,11 +23,11 @@ return response.data.access_token;
 
 async function getPlaylistTracks() {
 const accessToken = await getAccessToken();
-const url = `https://api.spotify.com/v1/playlists/0ZR2RLiSvflTsX6PDQ7DRS/tracks`
+const url = `https://api.spotify.com/v1/playlists/3i0YlotQnM7qnrz9P3YhVy/tracks`
 
 try {
 const response = await axios.get(url, {
-headers: { Authorization: `Bearer BQBVg1dm3HYuL5naKReF42NL7fcOfmt7m9s4JvLzNfAu-o1Ihjmb-6EUid_JMl0S6dEnkwxqMhTRMSsmtqfO_8BHnWNJXPVQ-8a2vlXX1Ut8csl7wyn21nO5vK-kcatR7cSZ_NPVueJsOXOH4IjfYJNHzySivaXQIDU4gKkpl4jIoGUoI2PRXb4ET-3jajHwHx1k5U-X9yzgAUo9wl1iNCzT0FPS5ntiS3rMNy8d19StNszFRGNNwlredkgkUmEzBErR-ZgEGN1FIbCpbFGvItgrqWNBKMZM` },
+headers: { Authorization: `Bearer BQCbtEaw7f7jglOL58qr-A89x0DjqJRu8r08lXojNH_6SeRT5GMA3KajqaRomnBXG02_2-GVA3qb8K7iLirL5_Tbbqr3h93BHo8S1SxB4Byb-U21VuIRwEdHtSErq_BV3NJKQ4eLyJSaiSZda3LuxONLtiCIHqrLCbgBWzG2Knnj6vxs1FnDB15jLcdnDn89z-Z9lcF2IObOlkaAELuyO9SzmbwdEVO3f910sfTrGD9KQn-5-gARoGf1yIEdf0iUn1aCf_YMB04UoLkVvNp1iqCwhMk9oS1f` },
 });
 
 // Extract track URLs
@@ -45,9 +45,9 @@ const response = await axios.get(`https://api.agatz.xyz/api/spotifydl?url=${url}
 const data = JSON.parse(response.data.data); 
 return {
 title: data.judul,
+artist: data.nama_channel,
 url: data.url_audio_v1,
-image: data.gambar_kecil[0].url,
-channel: data.nama_channel
+cover: data.gambar_kecil[0].url
 };
 } catch (error) {
 console.error('Error downloading track:', error);
@@ -81,31 +81,14 @@ responseType: 'stream'
 const writer = fs.createWriteStream(filePath);
 audioResponse.data.pipe(writer);
 writer.on('finish', async() => {
-const url = `https://www.lyricsify.com/lyrics/${song.channel.toLowerCase().replace(/ /g, "-").split(',')[0]}/${song.title.replace(/ /g, "-")}`;
-const response = await axios.get(url);
-const dom = new JSDOM(response.data);
-const lyricsDiv = dom.window.document.querySelector('.main-page div[id^="lyrics_"]');
-if (lyricsDiv) {
-const lyricsText = lyricsDiv.textContent || lyricsDiv.innerText;
-const lirik_convert = parseLrc(lyricsText);  
-playlist.push({
-title: song.title,
-artist: song.channel,
-url:`https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/${song.title}.mp3`,
-cover: song.image,
-lyrics: lirik_convert
-});
-} else {
-console.error("Lyrics not found for song:", song.title);
-playlist.push({
-title: song.title,
-artist: song.channel,
-url:`https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/${song.title}.mp3`,
-cover: song.image,
-lyrics: []
-});
-}
 console.log(`Downloaded: ${song.title}`);
+playlist.push({
+title: song.title,
+artist: song.artist,
+source:`https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/${song.title}.mp3`,
+cover: song.cover,
+favorite: true,
+});
 fs.writeFileSync('./playlist.json', JSON.stringify(playlist, null, 2));
 });
 writer.on('error', (err) => {
@@ -119,20 +102,3 @@ console.error('Error saving track:', error);
 }
 
 downloadTracks()
-
-function parseLrc(lrc) {
-const lines = lrc.split('\n');
-return lines.map(line => {
-const match = line.match(/\[(\d{2}):(\d{2}\.\d{2})\](.*)/);
-if (match) {
-const minutes = parseInt(match[1]);
-const seconds = parseFloat(match[2]);
-return {
-time: minutes * 60 + seconds,
-text: match[3].trim()
-};
-}
-return null;
-}).filter(item => item !== null);
-}
-//console.log(parseLrc(``))
