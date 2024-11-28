@@ -1,7 +1,7 @@
 const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
-
+const { JSDOM } = require('jsdom'); 
 
 
 // Get Spotify Access Token
@@ -27,7 +27,7 @@ const url = `https://api.spotify.com/v1/playlists/0ZR2RLiSvflTsX6PDQ7DRS/tracks`
 
 try {
 const response = await axios.get(url, {
-headers: { Authorization: `Bearer BQBwBfDanR7RUX9auZCBJ1skUPDgClfgdR6hEet_OEOcnJ819FomLlobUu-XpzdL31DympVxQIcWTDbv9W6gKeRfZnyq6xK8T_oYJbMSES3mNnT2h-4-MX_ymqlBqBI98AkJviVtNnHvlzoSPQGI-KAgGh7qHKg-yBVRV1fw7pRlNyfVKRo952_raHT1jGbtDsSp9MQ-CFkOS_8o5cL5hOIDMmvbCsI4NG8eybgyjXIuqhhgofqj85ATwgyuKLGyase_UEdjZvyZ3EIAuPajk76wmRzvrdX8` },
+headers: { Authorization: `Bearer BQBVg1dm3HYuL5naKReF42NL7fcOfmt7m9s4JvLzNfAu-o1Ihjmb-6EUid_JMl0S6dEnkwxqMhTRMSsmtqfO_8BHnWNJXPVQ-8a2vlXX1Ut8csl7wyn21nO5vK-kcatR7cSZ_NPVueJsOXOH4IjfYJNHzySivaXQIDU4gKkpl4jIoGUoI2PRXb4ET-3jajHwHx1k5U-X9yzgAUo9wl1iNCzT0FPS5ntiS3rMNy8d19StNszFRGNNwlredkgkUmEzBErR-ZgEGN1FIbCpbFGvItgrqWNBKMZM` },
 });
 
 // Extract track URLs
@@ -54,57 +54,60 @@ console.error('Error downloading track:', error);
 return null;
 }
 }
+
 async function downloadTracks() {
 let songr =  await getPlaylistTracks()
+//let songr =['https://open.spotify.com/track/0daEJMXc3b4ZMTnvtHpuTt']
 const songPromises = songr.map(downloadSpotifyTrack); 
 let songs = await Promise.all(songPromises);
-songs = songs.filter(song => song !== null); // Remove null results
-
-// Create the 'songs' directory if it doesn't exist
+songs = songs.filter(song => song !== null); 
 if (!fs.existsSync('./songs')) {
 fs.mkdirSync('./songs');
 }
-// Check if 'playlist.json' exists, if not, create it
+
 if (!fs.existsSync('./playlist.json')) {
-fs.writeFileSync('./playlist.json', JSON.stringify([])); // Initialize with an empty array
+fs.writeFileSync('./playlist.json', JSON.stringify([])); 
 }
-// Load existing playlist from the file
+
 const playlist = JSON.parse(fs.readFileSync('./playlist.json', 'utf8'));
-// Download each track and save it to the 'songs' folder
 for (let song of songs) {
 const filePath = path.join(__dirname, 'songs', `${song.title}.mp3`);
-
-// Check if the file already exists, if it does, skip the download
-if (fs.existsSync(filePath)) {
-console.log(`Skipping ${song.title}, file already exists.`);
-continue;
-}
-
 try {
 const audioResponse = await axios({
 method: 'get',
 url: song.url,
 responseType: 'stream'
 });
-
 const writer = fs.createWriteStream(filePath);
-
 audioResponse.data.pipe(writer);
-
-writer.on('finish', () => {
-console.log(`Downloaded: ${song.title}`);
-// Add song info to the playlist
+writer.on('finish', async() => {
+const url = `https://www.lyricsify.com/lyrics/${song.channel.toLowerCase().replace(/ /g, "-").split(',')[0]}/${song.title.replace(/ /g, "-")}`;
+const response = await axios.get(url);
+const dom = new JSDOM(response.data);
+const lyricsDiv = dom.window.document.querySelector('.main-page div[id^="lyrics_"]');
+if (lyricsDiv) {
+const lyricsText = lyricsDiv.textContent || lyricsDiv.innerText;
+const lirik_convert = parseLrc(lyricsText);  
 playlist.push({
 title: song.title,
-channel: song.channel,
-audio_url: `https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/${song.title}.mp3`,
-image: song.image
+artist: song.channel,
+url:`https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/${song.title}.mp3`,
+cover: song.image,
+lyrics: lirik_convert
 });
-
-// Save updated playlist to 'playlist.json'
+} else {
+console.error("Lyrics not found for song:", song.title);
+playlist.push({
+title: song.title,
+artist: song.channel,
+url:`https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/${song.title}.mp3`,
+cover: song.image,
+lyrics: []
+});
+}
+console.log(`Downloaded: ${song.title}`);
 fs.writeFileSync('./playlist.json', JSON.stringify(playlist, null, 2));
 });
-
 writer.on('error', (err) => {
 console.error(`Error downloading ${song.title}:`, err);
 });
@@ -116,3 +119,20 @@ console.error('Error saving track:', error);
 }
 
 downloadTracks()
+
+function parseLrc(lrc) {
+const lines = lrc.split('\n');
+return lines.map(line => {
+const match = line.match(/\[(\d{2}):(\d{2}\.\d{2})\](.*)/);
+if (match) {
+const minutes = parseInt(match[1]);
+const seconds = parseFloat(match[2]);
+return {
+time: minutes * 60 + seconds,
+text: match[3].trim()
+};
+}
+return null;
+}).filter(item => item !== null);
+}
+//console.log(parseLrc(``))
