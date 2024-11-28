@@ -1,366 +1,205 @@
 [
   {
-    "title": "All I Want",
-    "artist": "Olivia Rodrigo & Disney",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/All I Want.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273103b7e52b6a1b74035385876",
+    "title": "Rodeo (Remix)",
+    "artist": "Lah Pat & Flo Milli",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Rodeo (Remix).mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27338f05c37e1cc8163594a0687",
     "favorite": true
   },
   {
-    "title": "traitor",
-    "artist": "Olivia Rodrigo",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/traitor.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+    "title": "2 On (feat. ScHoolboy Q)",
+    "artist": "Tinashe & ScHoolboy Q",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/2 On (feat. ScHoolboy Q).mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27381a584f39cad5c1c6a6e9e50",
     "favorite": true
   },
   {
-    "title": "Memories",
-    "artist": "Conan Gray",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Memories.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27360a89b781c62ffe2136e4396",
+    "title": "Starboy",
+    "artist": "The Weeknd & Daft Punk",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Starboy.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
     "favorite": true
   },
   {
-    "title": "happier",
-    "artist": "Olivia Rodrigo",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/happier.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+    "title": "Gata Only",
+    "artist": "FloyyMenor & Cris Mj",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Gata Only.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731d0777b3259d0bd618f4a1f6",
     "favorite": true
   },
   {
-    "title": "I Don't Love You",
-    "artist": "My Chemical Romance",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/I Don't Love You.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1",
+    "title": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
+    "artist": "The Weeknd & Playboi Carti & Madonna",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734c8f092adc59b4bf4212389d",
     "favorite": true
   },
   {
-    "title": "Angels Like You",
-    "artist": "Miley Cyrus",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Angels Like You.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738cffb7c6c40759eaf8a5a142",
+    "title": "KU LO SA (with Camila Cabello)",
+    "artist": "Oxlade & Camila Cabello",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/KU LO SA (with Camila Cabello).mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27346f4860442e4e517a55d16bb",
     "favorite": true
   },
   {
-    "title": "Disenchanted",
-    "artist": "My Chemical Romance",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Disenchanted.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1",
+    "title": "Drive By",
+    "artist": "Eric Bellinger",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Drive By.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27357b5e1c0ec12a19ae3471c80",
     "favorite": true
   },
   {
-    "title": "Cancer",
-    "artist": "My Chemical Romance",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Cancer.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1",
+    "title": "Baby By Me",
+    "artist": "50 Cent & Ne-Yo",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Baby By Me.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735fcaf37050baf451d34570f6",
     "favorite": true
   },
   {
-    "title": "Die With A Smile",
-    "artist": "Lady Gaga & Bruno Mars",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Die With A Smile.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735c7afa72c84ca04fdb7a5a4c",
+    "title": "ESTE",
+    "artist": "El Alfa & Nfasis",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/ESTE.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27304a8b7df76ffecbe823ec8ea",
     "favorite": true
   },
   {
-    "title": "Iris",
-    "artist": "The Goo Goo Dolls",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Iris.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca",
+    "title": "People",
+    "artist": "Libianca",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/People.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fc342f95f117d48dbdde9735",
     "favorite": true
   },
   {
-    "title": "Car's Outside",
-    "artist": "James Arthur",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Car's Outside.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273dc16d839ab77c64bdbeb3660",
+    "title": "Reminder",
+    "artist": "The Weeknd",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Reminder.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
     "favorite": true
   },
   {
-    "title": "A Year Ago",
-    "artist": "James Arthur",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/A Year Ago.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b7bc00a22e8cf49d45a3b8b2",
+    "title": "Terminator (feat. Young Jonn)",
+    "artist": "King Promise & Young Jonn",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Terminator (feat. Young Jonn).mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27304f11265b22f0cafe87f2d88",
     "favorite": true
   },
   {
-    "title": "The Cut That Always Bleeds",
-    "artist": "Conan Gray",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/The Cut That Always Bleeds.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43",
+    "title": "kompa pasión",
+    "artist": "фрози",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/kompa pasión.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273fc80bd2433ba9d9e79d0d114",
     "favorite": true
   },
   {
-    "title": "A Thousand Years",
-    "artist": "James Arthur",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/A Thousand Years.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27341b58c028c3ed6035074bdc1",
+    "title": "Love Me Back (Fayahh Beat)",
+    "artist": "Trinidad Cardona & Robinson",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Love Me Back (Fayahh Beat).mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b9b96725f63295f1ac93e964",
     "favorite": true
   },
   {
-    "title": "Can I Be Him",
-    "artist": "James Arthur",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Can I Be Him.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab",
+    "title": "Hey Daddy (Daddy's Home)",
+    "artist": "Usher",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Hey Daddy (Daddy's Home).mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79",
     "favorite": true
   },
   {
-    "title": "Say You Won't Let Go",
-    "artist": "James Arthur",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Say You Won't Let Go.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab",
+    "title": "Renegade",
+    "artist": "Aaryan Shah",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Renegade.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a21b22bea3992eb630bba71a",
     "favorite": true
   },
   {
-    "title": "Train Wreck",
-    "artist": "James Arthur",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Train Wreck.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27320beb61f61fcbeb33b10a9ab",
+    "title": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+    "artist": "The Weeknd & JENNIE & Lily-Rose Depp",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/One Of The Girls (with JENNIE, Lily Rose Depp).mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b0dd6a5cd1dec96c4119c262",
     "favorite": true
   },
   {
-    "title": "Impossible",
-    "artist": "James Arthur",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Impossible.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273192221f838b7b6b9cb4629bf",
+    "title": "Collide (Sped Up Remix)",
+    "artist": "Justine Skye & Tyga",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Collide (Sped Up Remix).mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b1fd209c11e33b3902159ab2",
     "favorite": true
   },
   {
-    "title": "Rewrite The Stars (with James Arthur & Anne-Marie)",
-    "artist": "James Arthur & Anne-Marie",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Rewrite The Stars (with James Arthur & Anne-Marie).mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fdcd66dc526a25e1555ae81d",
+    "title": "KEHLANI",
+    "artist": "Jordan Adetunji",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/KEHLANI.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f2cd132495d61b0da6a900d2",
     "favorite": true
   },
   {
-    "title": "Daylight",
-    "artist": "David Kushner",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Daylight.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae",
+    "title": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
+    "artist": "Drake & Sexyy Red & SZA",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Rich Baby Daddy (feat. Sexyy Red & SZA).mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27340f770ccc233a33f66cc553a",
     "favorite": true
   },
   {
-    "title": "Daylight",
-    "artist": "Maroon 5",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Daylight.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fc8633e22a7dba6aab817bff",
+    "title": "Swim",
+    "artist": "Chase Atlantic",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Swim.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735a0c2870f4f309e382d1fad6",
     "favorite": true
   },
   {
-    "title": "Wide Awake",
-    "artist": "Katy Perry",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Wide Awake.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616",
+    "title": "HEAVEN AND BACK",
+    "artist": "Chase Atlantic",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/HEAVEN AND BACK.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736df037d6182ee54b85c4fbbb",
     "favorite": true
   },
   {
-    "title": "End of Beginning",
-    "artist": "Djo",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/End of Beginning.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1",
+    "title": "Glock In My Lap",
+    "artist": "21 Savage & Metro Boomin",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Glock In My Lap.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273aa57907bf0cb2ca0c8cc74bc",
     "favorite": true
   },
   {
-    "title": "Secret Love Song (feat. Jason Derulo)",
-    "artist": "Little Mix & Jason Derulo",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Secret Love Song (feat. Jason Derulo).mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273995994477ea1ae8097978bf8",
+    "title": "Too Many Nights (feat. Don Toliver & with Future)",
+    "artist": "Metro Boomin & Future & Don Toliver",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Too Many Nights (feat. Don Toliver & with Future).mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27313e54d6687e65678d60466c2",
     "favorite": true
   },
   {
-    "title": "Photograph",
-    "artist": "Ed Sheeran",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Photograph.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd",
+    "title": "FE!N",
+    "artist": "Travis Scott",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/FE!N.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44",
     "favorite": true
   },
   {
-    "title": "505",
-    "artist": "Arctic Monkeys",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/505.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface",
+    "title": "U Are My High (with Future)",
+    "artist": "DJ Snake & Future",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/U Are My High (with Future).mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730e35fb1dd1d8c8bf82086e0e",
     "favorite": true
   },
   {
-    "title": "Unconditionally",
-    "artist": "Katy Perry",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Unconditionally.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731e9a057052d59004caf47e22",
+    "title": "Reflections",
+    "artist": "The Neighbourhood",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Reflections.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40",
     "favorite": true
   },
   {
-    "title": "Love In The Dark",
-    "artist": "Adele",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Love In The Dark.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737b9888dc365b8f957c63df14",
+    "title": "Practice",
+    "artist": "Drake",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Practice.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
     "favorite": true
   },
   {
-    "title": "December",
-    "artist": "Neck Deep",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/December.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27382a3560435840c14a72f6b6e",
-    "favorite": true
-  },
-  {
-    "title": "7 Years",
-    "artist": "Lukas Graham",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/7 Years.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732d94d0f04e9a58d1654b760b",
-    "favorite": true
-  },
-  {
-    "title": "Another Love",
-    "artist": "Tom Odell",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Another Love.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f",
-    "favorite": true
-  },
-  {
-    "title": "drunk text",
-    "artist": "Henry Moodie",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/drunk text.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273db94c82db2d786cd9e03a538",
-    "favorite": true
-  },
-  {
-    "title": "Be Alright",
-    "artist": "Dean Lewis",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Be Alright.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27313480e8127119dcb882eb53d",
-    "favorite": true
-  },
-  {
-    "title": "In The Stars",
-    "artist": "Benson Boone",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/In The Stars.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273918342010a40c88f289b5c00",
-    "favorite": true
-  },
-  {
-    "title": "Heart Attack",
-    "artist": "Demi Lovato",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Heart Attack.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b",
-    "favorite": true
-  },
-  {
-    "title": "It's You",
-    "artist": "Ali Gatie",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/It's You.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27350a744f0ef5c3e260d9de720",
-    "favorite": true
-  },
-  {
-    "title": "Viva La Vida",
-    "artist": "Coldplay",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Viva La Vida.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
-    "favorite": true
-  },
-  {
-    "title": "Patience",
-    "artist": "Take That",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Patience.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27306e7629fa095158d50b73d57",
-    "favorite": true
-  },
-  {
-    "title": "Beauty And A Beat",
-    "artist": "Justin Bieber & Nicki Minaj",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Beauty And A Beat.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f1d02a6cec967f8b6b78f76e",
-    "favorite": true
-  },
-  {
-    "title": "Summertime Sadness",
-    "artist": "Lana Del Rey",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Summertime Sadness.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918",
-    "favorite": true
-  },
-  {
-    "title": "Reckless",
-    "artist": "Madison Beer",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Reckless.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fe32f37b07c7894097aafd52",
-    "favorite": true
-  },
-  {
-    "title": "Let Her Go",
-    "artist": "Passenger",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Let Her Go.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273eb0b18cce8b7f5c9fc1579e7",
-    "favorite": true
-  },
-  {
-    "title": "It Will Rain",
-    "artist": "Bruno Mars",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/It Will Rain.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273dec2e6bae5062b94fc4eeb84",
-    "favorite": true
-  },
-  {
-    "title": "When I Was Your Man",
-    "artist": "Bruno Mars",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/When I Was Your Man.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46",
-    "favorite": true
-  },
-  {
-    "title": "Locked out of Heaven",
-    "artist": "Bruno Mars",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Locked out of Heaven.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46",
-    "favorite": true
-  },
-  {
-    "title": "Hurts So Good",
-    "artist": "Astrid S",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Hurts So Good.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27331e760ae51990e7d9a32593a",
-    "favorite": true
-  },
-  {
-    "title": "Happiness",
-    "artist": "Rex Orange County",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Happiness.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731bd6d088d3d81972af4cb81d",
-    "favorite": true
-  },
-  {
-    "title": "Christmas Kids",
-    "artist": "Roar",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Christmas Kids.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d72f734a66c2b545facd7517",
-    "favorite": true
-  },
-  {
-    "title": "Mind Over Matter (Reprise)",
-    "artist": "Young the Giant",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Mind Over Matter (Reprise).mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731f66d9c6790a9a1a2418ec57",
-    "favorite": true
-  },
-  {
-    "title": "Tek It",
-    "artist": "Cafuné",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Tek It.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27376a3f63eed99d8f4b99f931f",
-    "favorite": true
-  },
-  {
-    "title": "What Was I Made For? - From The Motion Picture \"Barbie\"",
-    "artist": "Billie Eilish",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/What Was I Made For? - From The Motion Picture \"Barbie\".mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733e0217383d05ece6d051b51e",
-    "favorite": true
-  },
-  {
-    "title": "Closed Doors",
-    "artist": "Ismail",
-    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Closed Doors.mp3",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f8e06dc960c431820aa894b8",
+    "title": "Saturn",
+    "artist": "SZA",
+    "source": "https://raw.githubusercontent.com/SatzzDev/Datas/main/songs/Saturn.mp3",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d70916ee9e40c90380ba5f07",
     "favorite": true
   }
 ]
